@@ -1,0 +1,201 @@
+Assuming you read through and ticked off all the checkboxes on our  beginner investing checklist  and our  beginner investing guide , you be ready to actually start investing. 
+ Source: Giphy 
+   
+ And if you have decided that you would want to invest in the Singapore listed investments, this article will bring you a step closer to making  your first-ever Singapore stock market investment ! 
+ Here’s all you need to know. 
+ 
+ TL;DR: How to Open a Central Depository (CDP) Account and Brokerage Account 
+ Click to Teleport 
+ 
+ What Is a Brokerage Account, and How Does It Work? 
+ Custodian vs Central Depository (CDP) Account 
+ How to Open a CDP Account: Can I Open a CDP Account Online? 
+ CDP Login and CDP Account Number Information 
+ What Brokerage Account to Use? 
+ Further Reading 
+ BONUS: Watch a Video 
+ 
+ 
+ What Is a Brokerage Account, and How Does It Work? 
+ To invest, you need to open a  brokerage account  (also known as a trading account or simply a broker) with a brokerage firm. 
+ 
+ A  brokerage account  is a platform that  allows investors to buy and sell investment products , such as  stocks ,  REITs  and  ETFs  and certain  bonds   that are listed on a  stock exchange . 
+ Brokerage firms act as intermediaries between investors and the stock exchange. 
+ In exchange for their work, brokers charge a commission fee. 
+ But now that you have bought these investment products, there are two main ways your Singapore-listed investments are being held or custodised. 
+ Back to top 
+ Custodian vs Central Depository (CDP) Account 
+ They will be held in either a  CDP account or custodian account . Here are the differences between them, 
+ What is a CDP Account / CDP Securities Account? 
+ Operated by the  Singapore Stock Exchange (SGX) ,  the CDP account provides integrated clearing, settlement, and depository services for customers in the Singapore stock market . 
+ In other words, the  stocks  and  bonds  we purchase through the Singapore  stock market  are safeguarded in our CDP account for us. 
+ In other words, you are the legal owner of the stock and a shareholder of the company. 
+ Pros cf CDP Account 
+ 
+ You will be invited to attend their Annual General Meetings (AGM) or  makan  sessions as some call it; and 
+ You will be entitled to voting rights; and 
+ You will receive the company’s annual reports; and 
+ You will be notified of any announcements or actions made by the company (Rights Issue, Share buyback etc.) 
+ When the brokerage you bought the stocks goes bankrupt, you will not be affected as you have direct ownership of the stocks. 
+ Your stock is also  centralised  in Singapore. Thus, you are able to use different brokerages.
+ 
+ For example, you are able to buy a stock at DBS Vickers and go into UOB Kay Hian to sell that stock. 
+ 
+ 
+ 
+ Cons of CDP Account 
+ 
+ Clearing Fee (CDP imposed): 0.0325% 
+ SGX Trading Fee: 0.0075% 
+ A bit more costly as CDP charges a brokerage fee for using its services. 
+ 
+ Apart from holding your stock in the CDP account, you may have your stocks held with the brokerage that you use. 
+ This means the stocks that you have purchased are held in custody on your behalf by your brokerage of choice. 
+ Custodian Account 
+ Alternatively, you could opt for a custodian account if you do not want to hold your own investments. 
+ Also, here are the Pros and Cons of the custodian account. 
+ Pros of Custodian Account  
+ 
+ Lower brokerage fee: Brokerages with custodian accounts generally charge lower fees as they save on the brokerage charges that CDP would impose for using CDP’s facilities 
+ Brokerages will cover you if you accidentally short-sell but at a fee 
+ More Privacy: Your stocks are purchased through the nominee account, which is not under your name. 
+ 
+ Cons of a Custodian Account 
+ 
+ Stock purchases are not under your name. This may not seem safe, but the Monetary Authority of Singapore (MAS) heavily regulates Singapore’s financial institutions and require that brokerages keep custodian accounts separate so that customers’ funds are not affected if the brokerage goes under. 
+ Because it is not purchased under your name, you are not a shareholder. So you will not be allowed to do anything a shareholder is able to, i.e. attend AGMs, voting rights, receive annual reports etc.
+ 
+ You can still attend AGMs held by the company. However, there are only limited available seats given to the Custodian, and the procedure itself is tedious. 
+ 
+ 
+ You will not be notified of any right issues or share buyback or any announcements or actions made by the company. 
+ 
+ But I would like to point out that certain investments like the  Singapore Savings Bonds  require that you open a CDP account to invest in them. 
+ 
+ If you are keen on opening a CDP account, here’s a step-by-step guide to opening one. 
+ Back to top 
+ How to Open a CDP Account: Can I Open a CDP Account Online? 
+ Here are the basics of what you need to know about how to open a CDP account online. 
+ Do also note that one needs to be at least  18 years old  and  not an undischarged bankrupt  before they can proceed. 
+ 1. Have a Bank Account With a Local Bank: DBS CDP Account & More 
+ To open an individual CDP Securities Account, you will need to have a bank account with one of the following banks in Singapore: 
+ 
+ Citibank 
+ DBS/POSB 
+ HSBC 
+ Maybank 
+ OCBC 
+ Standard Chartered Bank 
+ UOB. 
+ 
+ Is Opening a CDP Account Free? How Do I Create an Online CDP Account? 
+ Also, opening a CDP account is free.  
+ Let’s proceed with how you can create an online CDP account. 
+ 2. Fill Up An Online Application Form 
+ Since November 2019, you can choose to open a CDP account online and get your account sorted out within 15 minutes. 
+ To apply for your CDP account online, you can click  here: 
+ Source: SGX 
+ Everything is really convenient now, where one can simply open a CDP account online using MyInfo or an online form. 
+ 3. Ensure You Have The Supporting Documents Required 
+ Before you dive in and start filling up all the information in the application form, ensure that you have these supporting documents with you. 
+ There will be official documents that you need to submit when opening a CDP account.. 
+ Note that applicants must be at least  18 years old  and not an  un-discharged bankrupt . 
+ CDP Account Opening For Singaporean Citizens (SCs) or  Singapore Permanent Residents (PRs) 
+ Here’s a set of supporting documents you need when opening your CDP account if you are a  SC  or  SPR  using  Myinfo  on  Singpass : 
+ 
+ A Singapore Bank Account 
+ Photographed/Scanned Copy of Signature 
+ Tax Identification Number (TIN) aka your NRIC number. 
+ 
+ If you have a tax residency status outside Singapore, you will need to provide: 
+ 
+ Country of Tax Residency 
+ Tax Identification Number (TIN) 
+ Completed Form-W9 
+ 
+ Other Requirements 
+ In addition, CDP Account Opening using Myinfo relies on certain information recorded in Myinfo (e.g. Full Name, IC Number, Email, Mobile and Residential Address). If you wish to use information that is different from that in Myinfo for this account opening, please update your information in Myinfo before you proceed. 
+ Alternatively, you may sign up using the online form as detailed below: 
+ CDP Account Opening For Others via Online Form 
+ For Singapore Citizens/PRs: 
+ 
+ NRIC; or 
+ Singapore Armed Forces ID; or 
+ Singapore Police ID with Passport. 
+ 
+ For Malaysia Citizens: 
+ 
+ Malaysia IC; or 
+ Passport 
+ Work Pass. 
+ 
+ For Other Nationalities: 
+ 
+ Passport 
+ Work Pass 
+ One of the following Secondary Support Documents (the Support Document must be within the past there months and must contain the applicant’s name and residential address, which must match that in this application for verification.):
+ 
+ Bank statement from any Monetary Authority of Singapore (MAS) licensed banks; or 
+ Statement from Central Provident Fund (CPF); or 
+ Statement from Inland Revenue Authority of Singapore (IRAS). 
+ 
+ 
+ 
+ 
+ A Singapore Bank Account 
+ Photographed/Scanned Copy of Signature 
+ Tax Identification Number (TIN). 
+ 
+ If you have a tax residency status outside Singapore, you will need to provide: 
+ 
+ Country/Region of Tax Residency 
+ Tax Identification Number (TIN) 
+ Completed Form-W9. 
+ 
+ Back to top 
+ CDP Login and CDP Account Number Information 
+ After that, one can set up an account with their preferred local brokerage firms and start investing!  
+ Once you have purchased any investments, you can head over to SGX’s  CDP Internet page  to view and manage your investments! 
+ Be sure to take note of your CDP account number! 
+ 
+ Application through a brokerage firm 
+ Most of the brokerage firms in Singapore should be able to help their customers with their CDP account applications when they set up a brokerage account. 
+ Below are the lists of  retail brokers  that can help you do so: 
+ 
+ CIMB Securities 
+ DBS Vickers Securities 
+ iFAST Singapore 
+ KGI Securities 
+ Lim & Tan Securities 
+ Maybank Kim Eng 
+ OCBC Securities 
+ POEMS by PhillipCapita l 
+ RHB Securities Singapore 
+ UOB Kay Hian 
+ 
+ Once you have opened your CDP account, you can log in to the  SGX Investor Portal  via SingPass to view your stock portfolio and account statements.  
+ Back to top 
+ What Brokerage Account to Use? 
+ If you were wondering which brokerage account to use, check out our comparison of  brokerage accounts in Singapore : 
+ 
+   
+ Read User Reviews On Online Brokerages In Singapore 
+ Back to top 
+ Further Reading: How to get your Central Provident Fund (CPF) statement 
+ To obtain your CPF statement, simply head over to the  CPF Website : 
+ 
+ Simply head over to log in with your SingPass ID after that to obtain your statement. 
+ Further Reading: How to get your Latest Notice of Assessment for Income tax 
+ To get your latest Notice of Assessment for Income Tax, simply head over to the  IRAS Website 
+ 
+ From there, simply log in for Personal Tax Matters using your SingPass or IRAS PIN to obtain your latest Notice of Assessment for Income Tax. 
+ How To Open a CDP Account or Brokerage Account and Start Investing in Singapore 
+ 
+ Wanna tap on the knowledge of seasoned investors? You might even get your own investment questions answered  right here … 
+ Back to top 
+ 
+ BONUS: Prefer watching a video instead? Learn how to set up your accounts with Clara and Joel from the Seedly Team! 
+   
+ Back to top 
+
+https://blog.seedly.sg/step-step-guide-opening-stock-trading-brokerage-cdp-account-singapore/

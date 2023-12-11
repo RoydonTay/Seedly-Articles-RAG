@@ -1,0 +1,333 @@
+Just started working for a company and wondering why there’s a gross monthly income and take-home pay? 
+ Well, the answer is that 20% of your gross income goes into your Central Provident Fund (CPF) account(s)! 
+ Source: Giphy 
+ But what exactly is CPF and why does Singapore have it? 
+ Here’s a comprehensive CPF guide created especially for you! 
+ 
+ TL;DR: The Ultimate Guide to CPF 
+ The Basics of CPF 
+ 
+ What Is CPF And What Can It Be Used For? 
+ Who Is Required To Make CPF Contributions? 
+ CPF Contribution And Allocation Rates 
+ CPF Interest Rates 
+ CPF Management: What does the government do with CPF money? 
+ 
+ CPF and Retirement 
+ 
+ CPF Retirement Sum – What Happens At Age 55? Basic Retirement Sum In The Years To Come 
+ CPF LIFE – Who Will Join CPF LIFE? What Are The 3 Different LIFE Plans And Estimated Payouts Based On Retirement Sums Set Aside? 
+ 
+ Investing with CPF 
+ 
+ How to Invest with CPF and CPFIS 
+ CPF Hacks and Tips 
+ 
+ 
+ What Is Central Provident Fund (CPF)? 
+ 
+ CPF is a social security system in Singapore that is managed by the CPF board. 
+ Why Do We Have CPF? 
+ According to a  study  done on the financial planning attitudes of Singaporeans, about 3 out of 10, aged between 30 and 39, had not started planning for future financial needs! 
+ The reason we have CPF in place is simple: it helps us  set aside money for our retirement needs  and reduces our nation’s risk of having to depend on a shrinking working population to support a growing number of elderly residents. 
+ Amongst other things, CPF helps to  maintain homeownership rates  in Singapore as these funds can be used to pay for home purchases. 
+ Lastly, CPF also helps us  save for healthcare needs  such as medical insurance, hospitalisation expenses, and so on. 
+ What Can CPF Be Used For? 
+ Source: CPF Board 
+ CPF contributions go into three accounts, but when you hit 55, the retirement account is opened. 
+ 
+ Ordinary Account (OA) : For housing, insurance, investment, and education 
+ Special Account (SA) : For retirement income and retirement-related investments 
+ Medisave (MA) : For hospitalisation expenses, approved outpatient medical care, and approved medical insurance 
+ Retirement Account (RA) : For monthly retirement payouts 
+ 
+ Who Is Required To Make CPF Contributions? 
+ All Singapore Citizens (SCs) and Singapore Permanent Residents (SPRs)  make monthly CPF contributions. You will make and/or receive contributions in your CPF accounts as long as you are: 
+ 
+ Working in Singapore under a contract of service. 
+ Employed on a permanent, part-time or casual basis. 
+ 
+ This will be slightly different for those who are self-employed. 
+ If you are self-employed, only MediSave contributions are mandatory if you earn an annual Net Trade Income of more than $6,000.  Find out How CPF’s Contribute-As-You-Earn (CAYE) Scheme Can Help You . 
+ You can check how much MediSave contributions you need to make by logging in to my CPF Online Services with your SingPass, clicking on ‘My Messages’, and scrolling to the bottom of the page to view the message in ‘Others’. 
+ You can, however,  contribute to your three CPF accounts voluntarily .  
+ The voluntary contributions will be apportioned and credited to your Ordinary, Special, and MediSave accounts  based on the   CPF allocation rates  expressed as ratios of contribution. 
+ Check out the  Self-Employed Scheme  FAQs on the CPF website to find out more.  
+ CPF Contribution And Allocation Rates 
+ CPF contribution rates are the percentage of your wages that your employer and you have to contribute towards your CPF savings. 
+ Your CPF contributions are distributed to your Ordinary Account (OA), Special Account (SA), and MediSave Account (MA). 
+ According to CPF, here are the latest  CPF contribution  and  allocation rates  for  Singapore Citizens (SCs)  and  Singapore Permanent Residents  [ (SPRs)  from the  third year onwards ] earning more than  $750 a month : 
+ 
+ 
+ 
+ 
+   Contribution Rate for Monthly Wages ≥$750 
+(From 1 Jan 2023) Allocation Rates (% of Total Wages) 
+ 
+ 
+ 
+ 
+ Age 
+(Years) Employer's Contribution Employee's Contribution Total Ordinary Account Special Account Medisave Account 
+ 
+ 
+ ≤35 17 20 37 23  6 8 
+ 
+ 
+ >35 - 45 21 7 9 
+ 
+ 
+ >45 - 50 19 8 10 
+ 
+ 
+ >50 - 55 15 11.5 10.5 
+ 
+ 
+ >55 - 60 14.5 (+0.5) 15 (+1) 29.5 (+1.5) 12 7 10.5 
+ 
+ 
+ >60 - 65 11 (+1) 9.5 (+1) 20.5 (+2) 3.5 6.5 10.5 
+ 
+ 
+ >65 - 70 8.5 (+0.5) 7 (+1) 15.5 (+1.5) 1 4 10.5 
+ 
+ 
+ >70 7.5 5 12.5 1 1 10.5 
+ 
+ 
+ 
+ 
+ 
+ Different CPF contribution and allocation rates apply to different age groups to ensure the employability of workers and to meet their needs at various stages of their lives.  
+ As we grow older, the proportion drawn from our salary and  contributed towards our CPF accounts will decrease .  
+ However, the  allocation rates to your MA will increase . This is to meet our healthcare needs, especially during retirement.  
+ 
+ 
+ 
+ Employee’s Age 
+(Years) 
+ Ordinary Account 
+(Ratio of Contribution) 
+ Special Account (Ratio of Contribution) MediSave Account (Ratio of Contribution) 
+ 
+ 
+ 
+ 
+ 35 & below 0.6217 0.1621 0.2162 
+ 
+ 
+ Above 35 – 45 0.5677 0.1891 0.2432 
+ 
+ 
+ Above 45 – 50 0.5136 0.2162 0.2702 
+ 
+ 
+ Above 50 – 55 0.4055 0.3108 0.2837 
+ 
+ 
+ Above 55 – 60 0.4069 0.2372 0.3559 
+ 
+ 
+ Above 60 – 65 0.1709 0.317 0.5121 
+ 
+ 
+ Above 65 – 70 0.0646 0.258 0.6774 
+ 
+ 
+ Above 70 0.08 0.08 0.84 
+ 
+ 
+ 
+
+ Source: CPF | CPF Allocation Rates from 1 January 2023 Private Sector / Non-Pensionable Employees (Ministries, Statutory Bodies & Aided Schools) 
+ Note: The CPF allocation is first computed for the MediSave Account, followed by the Special Account. The remainder will be allocated to the Ordinary Account. 
+ To find out more about how your CPF contribution and allocation rates change as you grow older, refer to this  CPF page . 
+ Additionally, it is also important to know that CPF contributions have a limit. Here’s  What You Need to Know About Yearly CPF Contribution Caps . 
+ CPF Interest Rates 
+ 
+ 
+ 
+ CPF Account Interest Rates* 
+ 
+ 
+ 
+ 
+ Ordinary Account Up to 2.5% 
+ 
+ 
+ Special Account Up to 4% 
+ 
+ 
+ MediSave Account Up to 4% 
+ 
+ 
+ Retirement Account Up to 4% 
+ 
+ 
+ 
+
+ Ordinary Account savings earn interest of up to 2.5%, while SA and MA savings grow at up to 4% per annum. 
+ Earning Additional Interest Rates from CPF 
+ Those under 55 years old get to earn 1% p.a. extra interest on the first $60,000 of combined CPF balances, of which up to $20,000 comes from the Ordinary Account (OA).  
+ Members aged 55 and above also earn 1% additional  extra  interest on the first $30,000 of combined balances, with up to $20,000 from the OA, thus earning up to 6% p.a. on their retirement balances. 
+ We delve into  CPF Interest Rates here – how to calculate CPF Interest Rates, its methodology, and the latest updates . 
+ CPF Money Usage and Controversy 
+ “CPF Cheat Money!” “CPF is the government taking our money!” These are some common negative sentiments about the institution of CPF. 
+ We’ve all heard conspiracies and doubts about our CPF being the government’s scheme of stealing our hard-earned money. 
+ MOF has reiterated time and time again that  n o CPF monies go toward government spending.  
+ So the next more philosophical follow-up after the technicalities would be… 
+ Is the CPF bad? And what does the government do with our CPF money? 
+ Well, in short, the CPF Monies are pooled together to be invested in a bond called Special Singapore Government Securities (SSGS) that are issued and guaranteed by the Singapore Government. 
+ Read more 
+ 
+ What does the Government do with our CPF Monies? 
+ 
+ 
+ CPF in Retirement –  What Happens At Age 55? 
+ 
+ When you reach 55, a  Retirement Account (RA)  will be created for you. 
+ The savings from your Special Account (SA) and/or Ordinary Account (OA) up to your Full Retirement Sum (FRS) will be transferred to your RA to form your retirement sum.  
+ According to CPF, a retirement sum is ” the amount of retirement savings which you have chosen to set aside in your Retirement Account to receive monthly payouts from your payout eligibility age, which is currently at age 65. Your retirement sum can be used to join CPF LIFE which provides you with a life-long monthly payout or the Retirement Sum Scheme which provides you with a monthly payout until your Retirement Account balance is depleted.” 
+ The retirement sum will provide you with a monthly payout from the payout eligibility age, which is 65 for members born on or after 1954.  
+ The more you set aside in your Retirement Account (RA), the higher your future monthly payout. 
+ When you turn 55, you can withdraw: 
+ 
+ $5,000 or your Ordinary and Special Account savings above the Full Retirement Sum, whichever is higher 
+ and 
+ Any Retirement Account savings (excluding top-up monies, government grants, and interest earned) above the Basic Retirement Sum as long as you own a property. 
+ 
+ Understanding CPF Retirement Sums:  Basic Retirement Sum (BRS) ,  Full-Retirement Sum (FRS) , and Enhanced Retirement Sum (ERS) 
+ You might be confused by the terms BRS, FRS, and ERS. In short, they are just tiers of retirement sums that determine your monthly payouts post-retirement. 
+ Similar to how paying higher insurance premiums get you better coverage, the higher tier of your retirement sum, the more your monthly payouts. 
+ 
+ To help you plan early for retirement, the tiers of Retirement Sum – Basic, Full, and Enhanced – will be made known to you ahead of time.  
+ For each successive cohort of members turning 55, the payouts will need to increase to account for long-term  inflation  and rising standards of living. 
+ Correspondingly, the Basic Retirement Sum to be set aside  has to increase. 
+ Depending on your desired CPF LIFE monthly payout and your CPF balances, you can choose to set aside the Basic, Full, or Enhanced Retirement Sum. 
+ Note: BRS would be the minimum CPF amount for you to hit if you want to withdraw your CPF at age 55. 
+ For CPF members turning 55 years old in 2023, the premiums for CPF LIFE are $99,400 for the Basic Retirement Sum, $198,800 for the Full Retirement Sum, and $298,200 for the Enhanced Retirement Sum. 
+ 
+ 
+ 
+ 55th Birthday in Basic Retirement Sum  
+(BRS) Full Retirement Sum  
+(FRS) 
+ 
+ 
+ 
+ 
+ 2023 $98,880 $198,800 
+ 
+ 
+ 2024 $102,900 $205,800 
+ 
+ 
+ 2025 $106,500 $213,000 
+ 
+ 
+ 2026 $110,200 $220,400 
+ 
+ 
+ 2027 $114,100 $228,200 
+ 
+ 
+ 
+
+ Read more 
+ 
+ 
+ I’m A Singaporean Millennial: How Much CPF Do I Need To Retire? 
+ 
+ 
+ CPF LIFE 
+ CPF   L ifelong  I ncome  F or The  E lderly  (CPF LIFE)  Scheme is a life annuity scheme that provides Singapore Citizens and Permanent Residents with a monthly payout for as long as they live. 
+ You can choose to receive your monthly payout anytime, from your payout eligibility age up to age 70. 
+ Who Will Join CPF LIFE? 
+ You will automatically be included in CPF LIFE to enjoy lifelong payouts if you: 
+ 
+ Are a Singapore Citizen or Permanent Resident born in 1958 or after; and 
+ Have at least $60,000 in your Retirement Account six months before you reach your Payout Eligibility Age (PEA) 
+ 
+ If you’re automatically included, the CPF board will inform you before you turn 65 to explain the options available to you. 
+ If you’re not automatically included, you’ll receive monthly payouts which will stop when your savings run out. 
+ You may also voluntarily enroll yourself when you’re ready to start receiving payouts, any time from 65 to one month before you turn 80. 
+ What Are The 3 Different CPF LIFE Plans And How Do They Differ? 
+ There are three CPF LIFE plans for you to choose from: 
+ 
+ LIFE Standard Plan 
+ LIFE Escalating Plan 
+ LIFE Basic Plan 
+ 
+ The plans differ in terms of the  monthly payout  you would receive. 
+ Source: CPF 
+ What Are The Estimated CPF Monthly Payouts? 
+ Your  CPF LIFE monthly payouts  would depend on factors such as: 
+ 
+ Age 
+ Gender 
+ Property Ownership 
+ Retirement Account (RA) savings used to join CPF LIFE 
+ CPF LIFE plan type you choose 
+ CPF interest rates 
+ Mortality rates 
+ 
+ The premiums and payouts are determined by an independent actuarial consultant. 
+ The minimum CPF amount is $60,000 to receive monthly CPF LIFE payouts. 
+ Below is a reference for how much monthly CPF LIFE payout you will receive based on the retirement sum set at age 55: 
+ Source: CPF Board 
+ If you’re at least 50, you can use the  CPF LIFE Estimator tool  to estimate how much you can receive in monthly retirement payouts!  
+ Alternatively, you can check out our article: 
+ 
+ 
+ Investing with CPF Money 
+ Surprise, did you know you could invest with the elusive CPF money? 
+ CPF Investment Scheme (CPFIS)  is how you can do so. 
+ 
+ CPF Investment Scheme (CPFIS) 
+ The CPF Investment Scheme (CPFIS) gives individuals the option to invest their OA and SA balances to enhance their retirement nest egg. 
+ Eligibility for investing your CPF OA and SA balances are as follows: 
+ 
+ be at least 18 years old; 
+ is not an undischarged bankrupt; 
+ have more than $20,000 in your OA (the excess can be used to invest) 
+ have more than $40,000 in your SA (the excess can be used to invest) 
+ 
+ Types of Investments Available Using CPF 
+ The CPFIS allows CPF members to invest their CPF savings in various instruments such as: 
+ 
+ Exchange Traded Funds (ETFs) 
+ Bonds 
+ Fixed Deposits 
+ Insurance Products 
+ Shares 
+ Unit Trusts 
+ For a full list of what you can invest your CPF monies in, refer to  CPF’s extensive list  along with clear guidelines and criteria for your reference. 
+ 
+ Should You Invest Your CPF Money and How? 
+ People are often keen on investing with CPF funds because of the possibility of earning more than the fixed 2.5%. 
+ And there are several ways to go about growing and investing your CPF funds. 
+ Seedly has written many resources for investing with your CPF Funds: 
+ 
+ Step By Step Guide: How To Invest Using Your CPF 
+ CPF Investment Scheme (CPFIS): Should You Invest Your CPF Money? 
+ 
+ CPF Hacks 
+ If you think investing is a bit too complicated for you and you’d like something simpler, there are multiple little tweaks and changes you can make to expand your CPF as well. 
+ These are some CPF Hacks and Tips for you! 
+ 
+ How to Get $1 Million at 65 Using Your CPF 
+ Top 8 Must-Know CPF Hacks to Maximise Your CPF 
+ Top Up CPF: Should you voluntarily contribute to CPF? 
+ CPF SA Top Up Step-by-Step Guide: Grow Your Retirement Fund & Save on Income in Tax Singapore 
+ How to Contribute to Child CPF and more ways to  Grow your child’s CPF  
+ 
+ 
+ Related Articles 
+ 
+ CPF Basic Healthcare Sum (BHS) 2023 Guide 
+ Budget 2023 Singapore Summary 
+ Best Travel Insurance in Singapore 
+ Best Credit Cards in Singapore 
+ 
+
+https://blog.seedly.sg/about-central-provident-fund-cpf/

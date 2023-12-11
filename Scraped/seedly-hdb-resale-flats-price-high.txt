@@ -1,0 +1,272 @@
+Source: Giphy 
+ Throughout 2022 and 2023, we’ve been through several price changes, and one of them is our HDB resale flat prices, which have been going up and up. 
+ If you don’t know already, HDB resale flat prices have been rising continuously for the last 12 months, and this has triggered multiple cooling measures by the government… 
+ Would it continue increasing? 
+ Let’s do a deep dive so we can understand better. 
+ 
+ TL;DR: HDB Resale Flat Prices Increasing But Slowing Down 
+ 
+ 
+ 
+ HDB Town Overall Price* (Oct 2021 - Oct 2022) Overall Price* (Oct 2022 - Oct 2023) Percentage Change 
+ 
+ 
+ 
+ 
+ Ang Mo Kio $461,000 $452,000 -1.95% 
+ 
+ 
+ Bedok $462,500 $495,000 +7.02% 
+ 
+ 
+ Bishan $770,000 $732,500 -4.87% 
+ 
+ 
+ Bukit Batok $480,000 $598,000 +24.58% 
+ 
+ 
+ Bukit Merah $755,000 $759,000 +0.53%. 
+ 
+ 
+ Bukit Panjang $512,500 $550,000 +7.32% 
+ 
+ 
+ Bukit Timah $845,000 $794,000 -6.03% 
+ 
+ 
+ Central Area $692,944 $520,000 -24.94% 
+ 
+ 
+ Choa Chu Kang $555,000 $525,000 -5.41% 
+ 
+ 
+ Clementi $550,000 $567,500 +3.18% 
+ 
+ 
+ Geylang $544,444 $520,000 −4.48% 
+ 
+ 
+ Hougang $529,000 $535,000 +1.13% 
+ 
+ 
+ Jurong East $450,000 $460,000 +2.22% 
+ 
+ 
+ Jurong West $516,500 $495,000 -4.16% 
+ 
+ 
+ Kallang/Whampoa $720,000 $525,000 -27.08% 
+ 
+ 
+ Marine Parade $541,500 $552,500 +2.03% 
+ 
+ 
+ Pasir Ris $620,000 $643,000 +3.71% 
+ 
+ 
+ Punggol $585,500 $608,000 +3.84% 
+ 
+ 
+ Queenstown $602,000 $682,000 +13.29% 
+ 
+ 
+ Sembawang $550,000 $545,500 -0.82% 
+ 
+ 
+ Sengkang $558,000 $580,000 +3.94% 
+ 
+ 
+ Serangoon $525,000 $580,000 +10.48% 
+ 
+ 
+ Tampines $570,000 $601,666 +5.86% 
+ 
+ 
+ Toa Payoh $515,000 $425,000 -17.48% 
+ 
+ 
+ Woodlands $535,000 $548,000 +2.43% 
+ 
+ 
+ Yishun $465,000 $508,000 +9.25% 
+ 
+ 
+ Overall** $545,000 $560,000 +2.75% 
+ 
+ 
+ 
+
+ *Overall price refers to the median resale price of all 3-, 4-, 5-, Exec- room type transactions in a neighbourhood. 
+ **Overall represents the median of all HDB resale transactions in all room types and in all areas. 
+ 
+ HDB Resale Price Index (RPI) 2023 
+ To track resale flat prices, the first thing we can look at is the HDB Resale Price Index (RPI). 
+ 
+ Source: HDB 
+ According to HDB, this is how the RPI works: 
+ This index can be used to compare the  overall price movements  of  HDB resale flats . 
+ It is calculated using resale transactions registered across towns, flat types, and models. 
+ The base period is the first quarter (Q1) of 2009, i.e. RPI has a value of  100  in Q1 2009. 
+ For example, if the index increases from  100  to  108  in one year, that means that on the whole, HDB resale flat prices increased by about  8%  over that year. 
+ For the uninitiated, the RPI for  Q3 2023  stands at  178.5,  which is marginally lower than the RPI’s all-time high of  168.1  in  Q3 2022. 
+ This means housing prices have increased about  78.5 per cent  since  Q1 2009! 
+ SRX Property Price Index (SPI) 
+ According to the  SRX Property Price Index (SPI) for HDB Resale : 
+ Source: 99-SRX | HDB 
+ Year on year, overall HDB resale prices overall price increased by about  5.3  from October 2022 %. 
+ To break it down a bit more, here’s how much the price increased according to the size of the flats within the same time period: 
+ 
+ 3-room flats’ price increased by  0.3% 
+ 4-room flats’ price increased by  0.7% 
+ 5-room flats’ price decreased by  0.4% 
+ Executive-room flats’ prices increased by  1.7%. 
+ 
+ Whereas flats in non-mature estates and mature estates increased by  5.7%  and  5.0%,  respectively, from 12 months ago. 
+ Now let’s break it down by neighbourhood. 
+ Median HDB Resale Flat Prices Oct 2022 – Oct 2023 
+ 
+ HDB Resale Flat Median Price Oct 2021 – Oct 2022 VS Oct 2022 – Oct 2023 
+ 
+ 
+ 
+ HDB Town Overall Price* (Oct 2021 - Oct 2022) Overall Price* (Oct 2022 - Oct 2023) Percentage Change 
+ 
+ 
+ 
+ 
+ Ang Mo Kio $461,000 $452,000 -1.95% 
+ 
+ 
+ Bedok $462,500 $495,000 +7.02% 
+ 
+ 
+ Bishan $770,000 $732,500 -4.87% 
+ 
+ 
+ Bukit Batok $480,000 $598,000 +24.58% 
+ 
+ 
+ Bukit Merah $755,000 $759,000 +0.53%. 
+ 
+ 
+ Bukit Panjang $512,500 $550,000 +7.32% 
+ 
+ 
+ Bukit Timah $845,000 $794,000 -6.03% 
+ 
+ 
+ Central Area $692,944 $520,000 -24.94% 
+ 
+ 
+ Choa Chu Kang $555,000 $525,000 -5.41% 
+ 
+ 
+ Clementi $550,000 $567,500 +3.18% 
+ 
+ 
+ Geylang $544,444 $520,000 −4.48% 
+ 
+ 
+ Hougang $529,000 $535,000 +1.13% 
+ 
+ 
+ Jurong East $450,000 $460,000 +2.22% 
+ 
+ 
+ Jurong West $516,500 $495,000 -4.16% 
+ 
+ 
+ Kallang/Whampoa $720,000 $525,000 -27.08% 
+ 
+ 
+ Marine Parade $541,500 $552,500 +2.03% 
+ 
+ 
+ Pasir Ris $620,000 $643,000 +3.71% 
+ 
+ 
+ Punggol $585,500 $608,000 +3.84% 
+ 
+ 
+ Queenstown $602,000 $682,000 +13.29% 
+ 
+ 
+ Sembawang $550,000 $545,500 -0.82% 
+ 
+ 
+ Sengkang $558,000 $580,000 +3.94% 
+ 
+ 
+ Serangoon $525,000 $580,000 +10.48% 
+ 
+ 
+ Tampines $570,000 $601,666 +5.86% 
+ 
+ 
+ Toa Payoh $515,000 $425,000 -17.48% 
+ 
+ 
+ Woodlands $535,000 $548,000 +2.43% 
+ 
+ 
+ Yishun $465,000 $508,000 +9.25% 
+ 
+ 
+ Overall** $545,000 $560,000 +2.75% 
+ 
+ 
+ 
+
+ From last year till now, the overall median price of HDB resale flats has increased by about  2.75%. 
+ This is a  significant drop  from the previous comparison we did in 2021 where we compared the periods Jun 2019 – Jun 2020 and Jun 2020 – Jun 2021, and the overall median price increased by about 15.88%! 
+ This could be attributed to the various  cooling measures  rolled out in Sep 2022, Feb 2023, and Apr 2023, where there was a 15-month wait-out period for private property owners buying non-subsidised HDB flats. 
+ Similarly, the Loan-to-Value (LTV) limit for HDB-granted loans was lowered from 85% to 80%, and increase in  Additional Buyers Stamp Duty (ABSD)  for buyers in Singapore. 
+ And last but not least, interest rates have remained high, which can affect buyer’s affordability. 
+ More Million Dollar Flats:  About 3.6 Times More Million Dollar HDB Flats Sold in 2021 vs 2023 
+ According to SRX, a total of  106  HDB resale flats were sold for  more than $1 million  in the  first half of 2021 . 
+ And in 2023, we hit a new high where  377  million-dollar flats   were sold! 
+ The common denominator between these million-dollar HDB flats is that most of the 377 of them are located in mature estates like Bishan, Bukit Merah, the Central Area, Kallang/Whampoa,  Toa Payoh , and Queenstown. 
+ 1/4 of Resale Flat Buyers Paid Cash Over Valuation (COV) in 2022 
+ Another indicator of the HDB resale market overheating is the increase in the number of people paying Cash Over Valuation (COV). 
+ 
+ Here is what the COV is about. 
+ Prior to 2014, a seller and buyer would decide on the selling price of the flat  AFTER   HDB’s valuation  of the flat. 
+ Since the valuation is pretty much fixed by HDB. 
+ The seller and the buyer would then decide how much cash-over-valuation (COV) will be paid on top of this valuation. 
+ Usually, this is  based on past COV prices  which were posted online by HDB. 
+ Which  technically  could be anything between $1 to infinity and beyond. 
+ Buyers who had cash flowing out of the wazoo would have no problems paying whatever the seller is asking for especially if they  die die  also want that flat. 
+ See how this quickly became a problem? 
+ After HDB decided to stop publishing the COV prices, sellers could not use the COV as a way to jack up the selling price. 
+ So now… the only way for buyers and sellers to agree on a price is by basing it on  the prices of past resale transactions . 
+ Once the selling price is agreed upon, the buyer will then request HDB to carry out a valuation to figure out how much COV has to be paid. 
+ Meaning, if the agreed selling price of a flat is $650,000, and the HDB-appointed valuer values the flat at $600,000 after physically inspecting the flat… 
+ That means that the buyer would have to pay a COV of $50,000. In other words, the COV is the difference between the transacted price of the flat and its official valuation by the HDB. This difference must be completely paid for in  cash . 
+ In a report by The Straits Times,  1 out of 4  HDB resale flat buyers paid an amount over the valuation in 2022 and this is lesser than in 2021 where 1 out of 3 did so. 
+ To put it simply, fewer people pay COV means that buyers are not fighting over the limited supply in the HDB resale market . 
+ Is This a Problem? 
+ Of course not. It’s good that  prices are rising at a slower rate  as compared to 2022. 
+ Similarly, with price growth slowing down and some months with lesser transaction volumes, this could mean that the HDB resale market may have peaked. 
+ But it’s too early to rejoice because…  the prices are still increasing . 
+ Will The Rising Resale HDB Prices Trend Continue in 2024 and beyond? 
+ 
+ That is the million-dollar question. 
+ There’s no telling whether HDB resale prices will continue going up in the next few years. 
+ But we do know that the new changes to HDB housing classification might potentially push buyers to purchase a million-dollar flat in a mature estate. 
+ For the uninitiated, it was announced during  this year’s National Day Rally  that from H2 2024, HDB flats will no longer be classified as flats in mature or non-mature estates. 
+ Instead, a  Standard-Plus-Prime model  will be adopted with a new set of restrictions. This is one plausible reason cited for more million-dollar transactions this year: 
+ “Buyers are willing to pay more to buy a flat in the mature estates with no restrictions… Fifty out of 54 million dollar flat transactions are in mature estates.” 
+– Huttons Asia’s Senior Director for Data Analytics Lee Sze Teck 
+ But there’s a concern that prices might keep going up (albeit slowly) because a lot of people want fancy houses. 
+ Still, we’re hopeful that things will get better when more new housing projects are finished in 2024 as more homes available will make prices go down, making it easier for people to buy a home. 
+ Related Articles: 
+ 
+ HDB BTO Dec 2023 Launch Preview: Bedok, Bishan, Queenstown, Woodlands & More 
+ HDB Flat Eligibility (HFE) Application: A Step-By-Step Guide 
+ What’s Your Probability of Getting an HDB BTO Flat? 
+ HDB Resale Transaction Guide: How To Sell Your HDB Resale Flat Without an Agent and Save on Fees 
+ The Seedly HDB Resale Guide: Your Ultimate Step-by-Step Guide to HDB Resale Application 
+ 
+ 
+
+https://blog.seedly.sg/hdb-resale-flats-price-high/
