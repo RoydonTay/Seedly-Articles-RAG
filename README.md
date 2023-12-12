@@ -1,7 +1,7 @@
 # Retrieval Augmented Generation with Seedly Articles
 
 ## Outline
-In this project, I built an RAG with a quantized llama2 model: llama-2-7b-chat.Q4_K_M.gguf downloaded from [TheBloke/Llama-2-7B-Chat-GGUF](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/tree/main). The documents used for RAG were retrieved via webscrapping of the [Seedly Blog](https://blog.seedly.sg), which contains articles about personal finance in Singapore's context. The articles I retrieved were mostly about purchasing property in Singapore and insurance policies. 
+In this project, I built an RAG with a quantized llama2 model: llama-2-7b-chat.Q4_K_M.gguf downloaded from [TheBloke/Llama-2-7B-Chat-GGUF](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/tree/main). The documents used for RAG were retrieved via webscrapping of the [Seedly Blog](https://blog.seedly.sg), which contains articles about personal finance. The articles I retrieved were mostly about purchasing property in Singapore and insurance policies. The aim is to develop a language model that is more contextually aware and capable of answering questions related to personal finance within the context of Singapore.
 
 ## Method
 For the webscrapping, I used the [Scrapy](https://scrapy.org) to retrieve the text from the articles. I used [FastEmbed](https://github.com/qdrant/fastembed) for conversion of text chunks into embeddings, and used [FAISS](https://github.com/facebookresearch/faiss) vector store for text storage and retrieval. Finally, I used [LangChain](https://www.langchain.com) to interface all the different components, from retrieval of text chunks to prompt structuring and chaining to achieve a desired output.
