@@ -1,54 +1,33 @@
 '''
-Download quantized llama2 model from cmd-line:
->>> pip3 install huggingface-hub>=0.17.1
->>> huggingface-cli download TheBloke/Llama-2-7b-Chat-GGUF llama-2-7b-chat.Q4_K_M.gguf --local-dir . --local-dir-use-symlinks False
-source: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/blob/main/README.md
-
 Stack:
 Langchain framework for LLM development. FAISS as vectorstore and FastEmbed model as embedding function. Pickle to store vectorstore.
 '''
-import langchain
-from langchain.callbacks.manager import CallbackManager
-from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 import pickle
-from langchain.schema import StrOutputParser
+from langchain_core.output_parsers import StrOutputParser
 from langchain.schema.runnable import RunnablePassthrough
-from langchain.chains import LLMChain
-from langchain.embeddings.fastembed import FastEmbedEmbeddings
-from langchain.llms import LlamaCpp
-from langchain.prompts import PromptTemplate
-from langchain.vectorstores import FAISS
-
-# User input:
-question = str(input("Write your question: "))
-
-# enable logging of processes
-langchain.debug = True
-callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
+from langchain_community.embeddings.spacy_embeddings import SpacyEmbeddings
+from langchain_core.prompts import PromptTemplate
+from langchain_community.vectorstores import FAISS
+from langchain_groq import ChatGroq
 
 # initialize LLM
-llm = LlamaCpp(
-    model_path="../llama-2-7b-chat.Q4_K_M.gguf", # Download model into directory first
-    temperature=0.1,
-    max_tokens=2000,
-    top_p=1,
-    n_ctx = 800,
-    callback_manager=callback_manager,
-    verbose=True, 
+llm =  ChatGroq(
+    temperature=0,
+    model="llama3-70b-8192"
 )
 
 # Loading vector store and retrieving docs
 with open("store", 'rb') as f:
     pkl = pickle.load(f)
 
-embeddings = FastEmbedEmbeddings()
+embeddings = SpacyEmbeddings(model_name="en_core_web_sm")
 db = FAISS.deserialize_from_bytes(
-    embeddings=embeddings, serialized=pkl
+    embeddings=embeddings, serialized=pkl, allow_dangerous_deserialization=True
 ) 
-retriever = db.as_retriever(search_type="similarity", search_kwargs={"k": 2})
+retriever = db.as_retriever(search_type="similarity", search_kwargs={"k": 5})
 
 # LLM Prompts
-CONDENSE_QUESTION_PROMPT = PromptTemplate.from_template("""Summarise the context provided to be shorter in length, but remain understadable to you. 
+CONDENSE_CONTEXT_PROMPT = PromptTemplate.from_template("""Summarise the context provided to be shorter in length, but remain understadable to you. 
 Context : {context}
 """)
 
@@ -62,10 +41,12 @@ Helpful Answer:"""
 
 # Function to join retireved docs
 def format_docs(docs):
-    return "\n\n".join(doc.page_content for doc in docs)
+    context = "\n\n".join(doc.page_content for doc in docs)
+    print('Context:', context, '\n\n')
+    return context
 
 # Langchain LLM Chains
-condense_chain = {"context": retriever | format_docs} | CONDENSE_QUESTION_PROMPT | llm | StrOutputParser()
+condense_chain = {"context": retriever | format_docs} | CONDENSE_CONTEXT_PROMPT | llm | StrOutputParser()
 
 rag_chain = (
     {"question": RunnablePassthrough(), "improved_context": condense_chain}
@@ -75,4 +56,4 @@ rag_chain = (
 )
 
 # Model Output
-rag_chain.invoke("What should I consider when getting insurance?")
+print(rag_chain.invoke("What should I consider when buying insurance?"))
