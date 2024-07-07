@@ -5,7 +5,7 @@ Langchain framework for LLM development. FAISS as vectorstore and FastEmbed mode
 import pickle
 from langchain_core.output_parsers import StrOutputParser
 from langchain.schema.runnable import RunnablePassthrough
-from langchain_community.embeddings.spacy_embeddings import SpacyEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.prompts import PromptTemplate
 from langchain_community.vectorstores import FAISS
 from langchain_groq import ChatGroq
@@ -20,11 +20,11 @@ llm =  ChatGroq(
 with open("store", 'rb') as f:
     pkl = pickle.load(f)
 
-embeddings = SpacyEmbeddings(model_name="en_core_web_sm")
+embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 db = FAISS.deserialize_from_bytes(
     embeddings=embeddings, serialized=pkl, allow_dangerous_deserialization=True
 ) 
-retriever = db.as_retriever(search_type="similarity", search_kwargs={"k": 5})
+retriever = db.as_retriever(search_type="similarity", search_kwargs={"k": 3})
 
 # LLM Prompts
 CONDENSE_CONTEXT_PROMPT = PromptTemplate.from_template("""Summarise the context provided to be shorter in length, but remain understadable to you. 
@@ -46,7 +46,11 @@ def format_docs(docs):
     return context
 
 # Langchain LLM Chains
-condense_chain = {"context": retriever | format_docs} | CONDENSE_CONTEXT_PROMPT | llm | StrOutputParser()
+condense_chain = (
+    {"context": retriever | format_docs} 
+    | CONDENSE_CONTEXT_PROMPT 
+    | llm 
+    | StrOutputParser())
 
 rag_chain = (
     {"question": RunnablePassthrough(), "improved_context": condense_chain}

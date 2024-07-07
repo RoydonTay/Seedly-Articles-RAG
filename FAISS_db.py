@@ -2,12 +2,12 @@
 Script to create vectorstore for webscrapped documents and write to pickle file.
 """
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings.spacy_embeddings import SpacyEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import pickle
 
-embedder = SpacyEmbeddings(model_name="en_core_web_sm")
+embedder = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
 path = 'Scraped'
 loader = DirectoryLoader(
